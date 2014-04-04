@@ -127,4 +127,6 @@ def match_twosided(desc1,desc2):
             matches_12[n] = 0
     
     return matches_12
-
+print dadafds
+asdfewahfie
+dfalkfjal
