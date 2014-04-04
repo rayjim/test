@@ -127,7 +127,12 @@ def match_twosided(desc1,desc2):
             matches_12[n] = 0
     
     return matches_12
+<<<<<<< HEAD
+print dadafds
+asdfewahfie
+dfalkfjal
+=======
 
 print 1234123
 print ddd
-
+>>>>>>> develop_123

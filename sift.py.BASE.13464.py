@@ -128,6 +128,3 @@ def match_twosided(desc1,desc2):
     
     return matches_12
 
-print 1234123
-print ddd
-
